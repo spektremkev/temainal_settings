@@ -54,7 +54,7 @@
             "experimental.retroTerminalEffect": true,
             "font": 
             {
-                "face": "CaskaydiaCove Nerd Font",
+                "face": "Cascadia Code",
                 "size": 12
             },
             "intenseTextStyle": "all",
